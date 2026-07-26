@@ -1,25 +1,19 @@
 {
   "id": "scene-transitions-v14-tromsopatch",
-  "name": "scene-transitions-v14-tromsopatch",
   "title": "Scene Transitions v14 Tromso Patch",
   "description": "A fully patched, v14-compatible version of Scene Transitions with correct flag saving.",
   "version": "1.0.0",
-  "type": "module",
-  "author": "Westnovote",
 
   "compatibility": {
-    "minimum": "14",
-    "verified": "14"
+    "minimum": 14,
+    "verified": 14
   },
 
-  "systems": [],
-  "packs": [],
+  "authors": [
+    { "name": "Westnovote" }
+  ],
 
   "scripts": [
     "scripts/scene-transitions.js"
-  ],
-
-  "url": "https://github.com/Westnovote/scene-transitions-v14-tromsopatch",
-  "manifest": "https://raw.githubusercontent.com/Westnovote/scene-transitions-v14-tromsopatch/main/module.json",
-  "license": "MIT"
+  ]
 }

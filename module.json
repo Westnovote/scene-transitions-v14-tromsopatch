@@ -9,6 +9,7 @@
   "minimumCoreVersion": "14",
   "compatibleCoreVersion": "14",
   "systems": [],
+  "packs": [],
   "scripts": [
     "scripts/scene-transitions.js"
   ],

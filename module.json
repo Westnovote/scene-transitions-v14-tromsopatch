@@ -15,5 +15,7 @@
 
   "scripts": [
     "scene-transitions.js"
-  ]
+  ],
+
+  "download": "https://github.com/Westnovote/scene-transitions-v14-tromsopatch/archive/refs/heads/main.zip"
 }

@@ -10,6 +10,5 @@
   ],
   "url": "https://github.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch",
   "manifest": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch/main/module.json",
-  "download": "https://github.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch/archive/refs/heads/main.zip",
   "license": "MIT"
 }

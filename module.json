@@ -8,7 +8,7 @@
   "scripts": [
     "scripts/scene-transitions.js"
   ],
-  "url": "https://github.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch",
-  "manifest": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch/main/module.json",
+  "url": "https://github.com/Westnovote/scene-transitions-v14-tromsopatch",
+  "manifest": "https://raw.githubusercontent.com/Westnovote/scene-transitions-v14-tromsopatch/main/module.json",
   "license": "MIT"
 }

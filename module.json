@@ -1,4 +1,5 @@
 {
+  "id": "scene-transitions-v14-tromsopatch",
   "name": "scene-transitions-v14-tromsopatch",
   "title": "Scene Transitions v14 Tromso Patch",
   "description": "A fully patched, v14-compatible version of Scene Transitions with correct flag saving.",
@@ -7,6 +8,7 @@
   "author": "Westnovote",
   "minimumCoreVersion": "14",
   "compatibleCoreVersion": "14",
+  "systems": [],
   "scripts": [
     "scripts/scene-transitions.js"
   ],

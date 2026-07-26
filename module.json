@@ -1,0 +1,15 @@
+{
+  "name": "scene-transitions-v14-tromsopatch",
+  "title": "Scene Transitions v14 Tromsø Patch",
+  "description": "A fully patched, v14-compatible version of Scene Transitions with correct flag saving.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "14",
+  "compatibleCoreVersion": "14",
+  "scripts": [
+    "scripts/scene-transitions.js"
+  ],
+  "url": "https://github.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch",
+  "manifest": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch/main/module.json",
+  "download": "https://github.com/<YOUR_GITHUB_USERNAME>/scene-transitions-v14-tromsopatch/archive/refs/heads/main.zip",
+  "license": "MIT"
+}
